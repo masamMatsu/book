@@ -2,6 +2,6 @@
 <%@include file="../header.html" %>
 <%@include file="menu.jsp" %>
 
-寿司オンラインショッピングにようこそ！
+dell寿司オンラインショッピングにようこそ！
 
 <%@include file="../footer.html" %>
