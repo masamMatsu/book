@@ -3,5 +3,5 @@
 <%@include file="menu.jsp" %>
 
 寿司オンラインショッピングにようこそ！
-
+本当にようこそ！
 <%@include file="../footer.html" %>
